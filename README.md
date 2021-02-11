@@ -1,1 +1,1 @@
-# Ejercicios-generation
+# Ejercicios curso generation
